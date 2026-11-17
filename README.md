@@ -1,38 +1,16 @@
-https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
-http://archive.is/https://github.com/misterch0c/shadowbroker
+## Russian Equation Group - The Shadow Brokers (TSB) "Lost in Translation" Toolset Reference
+### - US Intelligence Agencies (IC) - Counter Intelligence and Eavesdropping Toolset Leak
+##### Mirror: https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
+##### Repository: http://archive.is/https://github.com/misterch0c/shadowbroker
+<br>
 
-The following files were deleted after this repository was reported because it contained "sensitive data":
+### Cyberwarfare Reference Material  
+#### 2012-2015 NSA SIGINT and NOBUS Tools, Reiterated by Edward Snowden (2016), Confirmed by Harold Martin (2019)  
+#### 2016-2017 Russo Equation Group - The Shadow Brokers (TSB) Cyber Attacks  
+#### Confirmed and Documented - Backdoor Access, Ransomware Encryption Payloads, Secondary Encryption Payloads, and SMB Exploits
+<br>
 
-* /swift/00559_0_ENSBDVPN5-02AUG2013
-* /swift/00560_0_ENSBDVPN6-02AUG2013
-* /swift/00697_0_ENSBDVPN5-23AUG2013
-* /swift/00702_0_ENSBDVPN6-23AUG2013
-* /swift/Eastnets_Huge_Map_05_13_2010.vsd
-* /swift/ENSB%20UAE%20NW%20Topology%20V2.0.1339670413.vsd
-* swift/00503_0_254.242_2013mar02
-* swift/00546_0_ensbdasa-09aug2013
-* swift/00554_0_ensbdpix4-09aug2013
-* swift/00555_0_ensbdrtr1-2013aug09
-* swift/00566_2_FW1-Configuration.txt
-* swift/00566_3_SW1-Configuration.txt
-* swift/00566_4_SW2-Configuration.txt
-* swift/00708_0_ensbdasa1-31aug2013 
-* swift/00710_0_ensbdfw1-2013sep06
-* swift/00711_0_ensbdfw3-2013sep06
-* swift/00713_0_ensbdfw4-2013sep06
-* swift/00715_0_ensbdfw5-2013sep06
-* swift/00720_0_ensbdpix3-31aug2013
-* swift/00725_0_ensbdpix4-31aug2013
-* swift/00727_0_ensbdpix5-31aug2013
-* swift/00729_0_ensbdrtr1-2013sep06
-* swift/DNS%20Zone%20Trans%202013_10_
-* swift/DNS%20Zone%20Trans%202013_10_
-* swift/NOC_firewall_passwords_30May2
-
-
-
-# Exploits
-
+### Exploit Summary
 - **EARLYSHOVEL** RedHat 7.0 - 7.1 Sendmail 8.11.x exploit 
 - **EBBISLAND (EBBSHAVE)** root RCE via RPC XDR overflow in Solaris 6, 7, 8, 9 & 10 (possibly newer) both SPARC and x86.
 - **ECHOWRECKER** remote Samba 3.0.x Linux exploit. 
@@ -63,10 +41,9 @@ The following files were deleted after this repository was reported because it c
 - **EASYFUN** WordClient / IIS6.0 exploit
 - **ESSAYKEYNOTE** 
 - **EVADEFRED**
+<br>
 
-
-# Utilities
-
+### Utilities
 - **PASSFREELY** utility which "Bypasses authentication for Oracle servers"
 - **SMBTOUCH** check if the target is vulnerable to samba exploits like ETERNALSYNERGY, ETERNALBLUE, ETERNALROMANCE 
 - **ERRATICGOPHERTOUCH**  Check if the target is running some RPC
@@ -74,3 +51,4 @@ The following files were deleted after this repository was reported because it c
 - **RPCOUTCH** get info about windows via RPC
 - **DOPU** used to connect to machines exploited by ETERNALCHAMPIONS
 - **NAMEDPIPETOUCH** Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
+<br>
